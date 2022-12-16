@@ -1,0 +1,6 @@
+bootstrap 5
+
+without js and css bootstrap wont work
+
+MOZ
+WEBKIT - support for all web browsers
